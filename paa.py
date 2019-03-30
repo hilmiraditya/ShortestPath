@@ -51,7 +51,7 @@ if __name__ == "__main__":
     print "======================================"
     print "Anggota : "
     print "5116100164 | Hilmi Raditya Prakoso"
-    print "5116100151 | Falah Atthariq Razzaq"
+    print "5116100151 | Falah Ath Thaariq Razzaq"
     print "5116100159 | Rahmad Yanuar Darmansyah"
     print "======================================"
     print "\n"
